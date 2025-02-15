@@ -1,17 +1,22 @@
 ---
 layout: post
-title: Testing MathJax
-tags: mathjax
+title: 吉大
+tags: 作业
 math: true
-date: 2020-10-02 15:32 +0800
+date: 2025-02-15 11:24 +0800
 ---
-Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
-
-An inline math: \\\(E=mc^2\\\).
-
-A display math:
-
-$$
-i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
-\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-$$
+>吉林大学通信工程学院面向对象选修课实验1--4 [JLU-test1](https://github.com/Yeither/JLU-test1)
+>
+>吉林大学通信工程学院计算思维课程设计[JLU-test2](https://github.com/Yeither/JLU-test2)
+>
+>吉林大学网络安全选修课实验[JLU-test3](https://github.com/Yeither/JLU-test3)
+>
+>吉林大学通信工程学院计算机网报优考核[JLU-test4](https://github.com/Yeither/JLU-test4)
+>
+>吉林大学通信工程学院 基于Web的网络编程试题[JLU-test5](https://github.com/Yeither/JLU-test5)
+>
+>吉林大学通信工程学院基于web的网络编程实验内容[JLU-test6](https://github.com/Yeither/JLU-test6)
+>
+>吉林大学通信工程学院通信系统与仿真实验代码[JLU-test7](https://github.com/Yeither/JLU-test7)
+>
+>吉林大学通信工程学院大四生产实习手写数字识别[JLU-test8](https://github.com/Yeither/JLU-test8)
