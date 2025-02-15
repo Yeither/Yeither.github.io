@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  robomaster
-author: Yang
-tags: RM
-date: 2025-02-15 12:54 +0800
+title: Releasing Not Pure Poole v0.1.0
+author: Songzi Vong
+tags:
+- jekyll theme
+- jekyll
+date: 2020-10-01 13:56 +0800
 ---
 
 robomaster时的一些代码
