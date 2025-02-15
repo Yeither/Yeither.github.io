@@ -2,8 +2,7 @@
 layout: post
 title:  robomaster
 author: Yang
-tags:
-- robomaster
+tags: RM
 date: 2025-02-15 12:54 +0800
 ---
 robomaster时的一些代码（令人悲伤的比赛）
