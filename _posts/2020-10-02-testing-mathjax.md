@@ -7,7 +7,7 @@ date: 2025-02-15 11:24 +0800
 ---
 >吉林大学通信工程学院面向对象选修课实验1--4 [JLU-test1](https://github.com/Yeither/JLU-test1)
 >
->吉林大学通信工程学院计算思维课程设计[JLU-test2](https://github.com/Yeither/JLU-test2)
+>吉林大学通信工程学院计算思维课程设计[JLU-test2](https://github.com/Yeither/JLU_test2)
 >
 >吉林大学网络安全选修课实验[JLU-test3](https://github.com/Yeither/JLU-test3)
 >
