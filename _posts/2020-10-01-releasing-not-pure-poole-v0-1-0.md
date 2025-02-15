@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
+title: robomaster
 author: Songzi Vong
 tags:
-- jekyll theme
-- jekyll
-date: 2020-10-01 13:56 +0800
+- robomaster
+date: 2025-02-15 12:54 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
+robomaster时的一些代码（令人悲伤的比赛）
 
-Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+- 基于ros(noetic)的海康相机驱动[hk_driver_ros](https://github.com/Yeither/hk_driver_ros)
+- 视觉组代码[JLU_RoboVision](https://github.com/TARSGO)
 
-For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.
+[^fn-sample_footnote]: 承载着痛苦与悲伤在失望的海里漂荡
