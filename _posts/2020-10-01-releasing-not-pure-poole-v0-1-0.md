@@ -1,7 +1,7 @@
 ---
 layout: post
-title: robomaster
-author: Songzi Vong
+title:  robomaster
+author: Yang
 tags:
 - robomaster
 date: 2025-02-15 12:54 +0800
