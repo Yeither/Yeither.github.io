@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 吉大
-tags: 作业
+tags: 本科
 math: true
 date: 2025-02-15 11:24 +0800
 ---
