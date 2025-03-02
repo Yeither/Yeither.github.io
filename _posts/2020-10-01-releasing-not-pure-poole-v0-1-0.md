@@ -10,6 +10,7 @@ robomaster时的一些代码
 {: .message }
 
 - 基于ros(noetic)的海康相机驱动[hk_driver_ros](https://github.com/Yeither/hk_driver_ros)
+- 普通的海康相机驱动[hik_driver](https://github.com/Yeither/hik_driver)
 - 视觉组代码[JLU_RoboVision](https://github.com/TARSGO)
 - shit一样的赶工代码[工程](https://github.com/Yeither/engineer)
 
