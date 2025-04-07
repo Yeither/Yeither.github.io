@@ -20,5 +20,3 @@ date: 2025-02-15 11:24 +0800
 ---
 - 大学生创新创业计划[DON](https://github.com/Yeither/Don)
 
----
-- 简历[简历](https://github.com/Yeither/Yeither.github.io/blob/main/_posts/jianli.html)
