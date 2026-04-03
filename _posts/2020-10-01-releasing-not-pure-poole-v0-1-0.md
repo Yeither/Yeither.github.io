@@ -13,5 +13,6 @@ robomaster时的一些代码
 - 普通的海康相机驱动[hik_driver](https://github.com/Yeither/hik_driver)
 - 视觉组代码[JLU_RoboVision](https://github.com/TARSGO)
 - shit一样的赶工代码[工程](https://github.com/Yeither/engineer)
+- 还有很大改进空间的雷达站[雷达站](https://github.com/Yeither/TARS-GO_DualCam)
 
 [^fn-sample_footnote]: 承载着痛苦与悲伤在失望的海里漂荡
